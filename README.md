@@ -4,6 +4,13 @@ The project will simulate a simple computer system consisting of a CPU and Memor
 The CPU and Memory will be simulated by separate processes that communicate.
 Memory will contain one program that the CPU will execute and then the simulation will end.
 
+TO RUN: 
+
+1. Compile files: javac *.java
+
+2. Run class files: java CPU "sample program" "timer interrupt value"
+		example:	java CPU sample1.txt 30
+
 Instruction set
 
     1 = Load value              Load the value into the AC             
