@@ -1,4 +1,4 @@
-# CPU-Memory-SImulation
+# CPU-Memory-Simulation
 
 The project will simulate a simple computer system consisting of a CPU and Memory.
 The CPU and Memory will be simulated by separate processes that communicate.
